@@ -1,0 +1,68 @@
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+
+hr
+{
+    color: yellow;
+}
+
+h4 
+{
+    color: yellow;
+
+}
+
+h3
+{
+    color: white;
+}
+
+h1
+{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+label 
+{
+    color: yellow;
+}
+
+button
+{
+    font-weight: bolder;
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
+
+#camera 
+{
+    width: 500px;
+    height: 400px;
+    border-width: 2px;
+    border-color: yellow;
+}
+
+img
+{
+    display: inline;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    box-shadow: 0 6px 8px 0 rgba(255, 255, 0, alpha);
+
+}
